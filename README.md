@@ -19,7 +19,7 @@ Methodology: Mechanism synthesis, Finite Element Analysis (FEA) theory
 
 📁 Repository Structure
 
-/cad-designs: Exported parts and assembly renders.
+/cad-designs: Exported parts and assembly renders (COPY THE URL TO VIEW).
 
 /simulations: Python scripts for motion analysis.
 
